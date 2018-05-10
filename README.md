@@ -1,1 +1,1 @@
-# cf_DDNS
+# CloudFlare DDNS
