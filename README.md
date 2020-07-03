@@ -10,7 +10,7 @@ It can works as CronJob. Add a command like;
 
 ## Finding DNS Record
 
-[Cloudflare Get Domain's DNS Record]('https://gist.github.com/buraksakalli/410ccb26cdb1ad168ede3bd6377128eb')
+[Cloudflare Get Domain's DNS Record](https://gist.github.com/buraksakalli/410ccb26cdb1ad168ede3bd6377128eb)
 
 ```
 curl -X GET "https://api.cloudflare.com/client/v4/zones/ZONE_ID/dns_records?type=A&name=<Domain>" \
